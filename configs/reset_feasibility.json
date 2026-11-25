@@ -1,0 +1,2644 @@
+{
+  "gravity_m_s2": [
+    -9.81,
+    0.0,
+    0.0
+  ],
+  "summary": {
+    "inspect": {
+      "frames": 140,
+      "frames_with_contacts": 140,
+      "static_object_equilibrium_frames": 134,
+      "static_with_07Nm_frames": 134,
+      "reference_instantaneous_dynamic_object_balance_frames": 133,
+      "reference_instantaneous_dynamic_with_07Nm_frames": 133
+    },
+    "lift": {
+      "frames": 140,
+      "frames_with_contacts": 95,
+      "static_object_equilibrium_frames": 21,
+      "static_with_07Nm_frames": 21,
+      "reference_instantaneous_dynamic_object_balance_frames": 21,
+      "reference_instantaneous_dynamic_with_07Nm_frames": 21
+    }
+  },
+  "records": [
+    {
+      "frame": 100,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15036217045132036,
+      "equilibrium_residual_inf": 6.661338147750939e-16,
+      "normal_edge_force_sum_N": 2.984433812936107,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 101,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15161667301364595,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 2.9353129883935707,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 102,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15319753519998558,
+      "equilibrium_residual_inf": 6.661338147750939e-16,
+      "normal_edge_force_sum_N": 2.926993704510436,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 103,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1539226906201287,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.941710990002375,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 104,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15677957271294926,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.94832208013987,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 105,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16143069869881846,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 2.93904920175528,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 106,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15991410767444875,
+      "equilibrium_residual_inf": 6.661338147750939e-16,
+      "normal_edge_force_sum_N": 2.9233571855643117,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 107,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16540541079937499,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 2.9482726149687464,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 108,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16235332784824238,
+      "equilibrium_residual_inf": 8.881784197001252e-16,
+      "normal_edge_force_sum_N": 2.8834767080776267,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 109,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16218888509785967,
+      "equilibrium_residual_inf": 7.771561172376096e-16,
+      "normal_edge_force_sum_N": 2.8373858786322756,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 110,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16355345939045005,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.8004346061383165,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 111,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1628208121840543,
+      "equilibrium_residual_inf": 1.1102230246251565e-15,
+      "normal_edge_force_sum_N": 2.729904098316708,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 112,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16331919091360325,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 2.706216294285137,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 113,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.14884436463543738,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.9236498092113634,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 114,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.14775549389873477,
+      "equilibrium_residual_inf": 5.0009485087665414e-18,
+      "normal_edge_force_sum_N": 2.9309615086784757,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 115,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12286567137529912,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.9400739041635775,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 116,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1239063676347218,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 1.9359897058320232,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 117,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1253203036504574,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.925797159059543,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 118,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12530541424191904,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.9183407559494592,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 119,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12653855694602,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.9040156741852612,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 120,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12029233150013366,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.888742006105449,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 121,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12058980117866376,
+      "equilibrium_residual_inf": 5.551115123125783e-16,
+      "normal_edge_force_sum_N": 1.8887086355390323,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 122,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12083895544279172,
+      "equilibrium_residual_inf": 1.6653345369377348e-16,
+      "normal_edge_force_sum_N": 1.8888356802291906,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 123,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12040326979043481,
+      "equilibrium_residual_inf": 1.6653345369377348e-16,
+      "normal_edge_force_sum_N": 1.8847866115356884,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 124,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12077041364891111,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8878398660812588,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 125,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12032244709830132,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.8835787999591425,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 126,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12051717300459927,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.885589024063154,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 127,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1204843536958401,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8900623436071065,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 128,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12037408126223784,
+      "equilibrium_residual_inf": 1.6653345369377348e-16,
+      "normal_edge_force_sum_N": 1.885391914855492,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 129,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12093772927120697,
+      "equilibrium_residual_inf": 1.6653345369377348e-16,
+      "normal_edge_force_sum_N": 1.8921120589914167,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 130,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1206985017029623,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8916520720261372,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 131,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12137424966914183,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.8864936441615332,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 132,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12174389417035307,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8896317750303444,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 133,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12178751846584529,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8890678619918582,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 134,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12199861667841103,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8780590044265852,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 135,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12184106269340832,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.866722868250483,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 136,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12223876869042803,
+      "equilibrium_residual_inf": 4.822242520717459e-19,
+      "normal_edge_force_sum_N": 1.8680574645775572,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 137,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12208783386391081,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 1.8597981252324538,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 138,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12138741779835197,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.8465879876576983,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 139,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12148112514442022,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8480703306967738,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 140,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12075670688749648,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8382833970197372,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 141,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12118968662725006,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.8380608012194322,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 142,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1214664118007655,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.836452481537417,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 143,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12212968824767001,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8430979486245451,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 144,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12243604072442398,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.8427204038309262,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 145,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12372864946043566,
+      "equilibrium_residual_inf": 1.6653345369377348e-16,
+      "normal_edge_force_sum_N": 1.8564946760000622,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 146,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.123400617749991,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.853539262219142,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 147,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12368321303177737,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8548211906200553,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 148,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12361368600778576,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.857019351716803,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 149,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12392931760407004,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8606299928460803,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 150,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12437410230417027,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.8644049789389632,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 151,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1247973597597272,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 1.8675893777782666,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 152,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12494817738372568,
+      "equilibrium_residual_inf": 2.6704985989066644e-18,
+      "normal_edge_force_sum_N": 1.8737882008927382,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 153,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12538885238934572,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8789274762666404,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 154,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12576642312455794,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.8860748264670641,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 155,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12588828436505706,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8893567087364564,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 156,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1256023426577546,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8810248109709988,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 157,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1260984380098723,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 1.885765922695795,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 158,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12585282060285585,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8824120183196213,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 159,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1256554275707547,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8792466111710109,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 160,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12535033994417388,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8779295519532855,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 161,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12488172220849682,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.875830682875347,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 162,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12492387037398851,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8782673247832442,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 163,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12487163452743817,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.877757913481571,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 164,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12449655634033942,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 1.8738798551315852,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 165,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12416771510087538,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.8691407305531573,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 166,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12374195410569117,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8655402283756692,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 167,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12400770404155267,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.8659641339937245,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 168,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12304763885218596,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.864039932321242,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 169,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12292415151696921,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8741243279437345,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 170,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12253224712158416,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.8673365240878794,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 171,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12227796455681961,
+      "equilibrium_residual_inf": 2.7755575615628914e-16,
+      "normal_edge_force_sum_N": 1.8762756067901192,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 172,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12182507588663852,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.8856980768656144,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 173,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.13028455079325846,
+      "equilibrium_residual_inf": 5.551115123125783e-16,
+      "normal_edge_force_sum_N": 1.854865253861722,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 174,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12926595097820281,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.8640568959309358,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 175,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12654089712327082,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 1.8814240922539511,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 176,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1251893464375885,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.895819722154795,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 177,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12373126286804423,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 1.9131391550343793,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 178,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12241027841038067,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 1.9215318856971089,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 179,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12065983502112737,
+      "equilibrium_residual_inf": 1.3322676295501878e-15,
+      "normal_edge_force_sum_N": 1.9131835440088736,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 180,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1187495034040127,
+      "equilibrium_residual_inf": 2.7755575615628914e-16,
+      "normal_edge_force_sum_N": 1.9002278333621554,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 181,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.11675621517689051,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 1.8870003738625427,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 182,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.11448318123045703,
+      "equilibrium_residual_inf": 2.7755575615628914e-16,
+      "normal_edge_force_sum_N": 1.8743629352524813,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 183,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.11242567573041731,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 1.8663824967763083,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 184,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1378731099698906,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 3.3116439433147584,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 185,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.13857945596551322,
+      "equilibrium_residual_inf": 7.116904724803462e-18,
+      "normal_edge_force_sum_N": 3.2840087933850386,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 186,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1392530413578973,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 3.282116171986938,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 187,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.13902699889512998,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 3.3092050142019946,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 188,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16619420679764874,
+      "equilibrium_residual_inf": 7.771561172376096e-16,
+      "normal_edge_force_sum_N": 3.098602846104632,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 189,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16147234578632275,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 3.2763357859834854,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 190,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15877013312145846,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 3.274701398288276,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 191,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15493043309138937,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 3.3075848004100408,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 192,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16117772370367425,
+      "equilibrium_residual_inf": 2.7755575615628914e-16,
+      "normal_edge_force_sum_N": 3.244170803343493,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 193,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1609381735359752,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 3.366316415203148,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 194,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16174174800476246,
+      "equilibrium_residual_inf": 1.6225220271331505e-17,
+      "normal_edge_force_sum_N": 3.5105867005115936,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 195,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1619995884414623,
+      "equilibrium_residual_inf": 1.7763568394002505e-15,
+      "normal_edge_force_sum_N": 3.621290049073115,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 196,
+      "contacts": 7,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.16342088539382482,
+      "equilibrium_residual_inf": 1.3322676295501878e-15,
+      "normal_edge_force_sum_N": 3.735604529481611,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 197,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.17664340790709684,
+      "equilibrium_residual_inf": 2.033095913844818e-15,
+      "normal_edge_force_sum_N": 4.161549817043684,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 198,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.18546886128671902,
+      "equilibrium_residual_inf": 1.6375789613221059e-15,
+      "normal_edge_force_sum_N": 4.283194881384218,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 199,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1926821127033686,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 4.393056408719475,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 200,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.19218894113290488,
+      "equilibrium_residual_inf": 1.4432899320127035e-15,
+      "normal_edge_force_sum_N": 4.44022352412939,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 201,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.19441855823988086,
+      "equilibrium_residual_inf": 8.881784197001252e-16,
+      "normal_edge_force_sum_N": 4.484754843767788,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 202,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15185830492251962,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.681348135417884,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 203,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15214623297239094,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.6714708653849746,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 204,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15376844246304583,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.716356419258341,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 205,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15461459091348362,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 2.7199606536170258,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 206,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15546085308966412,
+      "equilibrium_residual_inf": 6.661338147750939e-16,
+      "normal_edge_force_sum_N": 2.74024485913279,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 207,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15443609700638655,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 2.7163800438478383,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 208,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15278649092715324,
+      "equilibrium_residual_inf": 5.551115123125783e-16,
+      "normal_edge_force_sum_N": 2.6732170110809887,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 209,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1512008680222824,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.6395983204302653,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 210,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1503161138199532,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 2.651608135773436,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 211,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1496553782056867,
+      "equilibrium_residual_inf": 6.661338147750939e-16,
+      "normal_edge_force_sum_N": 2.66403829298004,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 212,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.14957346330909554,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.708976023132748,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 213,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15007089227538856,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.774921532851499,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 214,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15055790152375692,
+      "equilibrium_residual_inf": 1.1025991255784781e-17,
+      "normal_edge_force_sum_N": 2.82066979462725,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 215,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15293011625782446,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.9210888493272305,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 216,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15417368047903876,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 2.9576763291580304,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 217,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1574709193736334,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 3.0360213104244504,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 218,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.24828854469652567,
+      "equilibrium_residual_inf": 6.661338147750939e-15,
+      "normal_edge_force_sum_N": 6.429350786370541,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 219,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.244502474473268,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 5.783352236787337,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 220,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.2857493698541642,
+      "equilibrium_residual_inf": 5.551115123125783e-17,
+      "normal_edge_force_sum_N": 6.5165096836758964,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 221,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.23657336519771266,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 5.802256222577906,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 222,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.19540700512832454,
+      "equilibrium_residual_inf": 1.3322676295501878e-15,
+      "normal_edge_force_sum_N": 5.115845414854055,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 223,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.3011615006927688,
+      "equilibrium_residual_inf": 8.881784197001252e-16,
+      "normal_edge_force_sum_N": 7.078980345001902,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 224,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.4103474232631378,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 10.604497782321872,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 225,
+      "contacts": 4,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 226,
+      "contacts": 4,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 227,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.14321235593826628,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 2.429964475713017,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 228,
+      "contacts": 5,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 229,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.12704844256979597,
+      "equilibrium_residual_inf": 4.90059381963448e-17,
+      "normal_edge_force_sum_N": 1.8123104217080153,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 230,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.125547743414699,
+      "equilibrium_residual_inf": 2.42861286636753e-16,
+      "normal_edge_force_sum_N": 1.7863146690179836,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 231,
+      "contacts": 5,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 232,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.13988260734219937,
+      "equilibrium_residual_inf": 1.2212453270876722e-15,
+      "normal_edge_force_sum_N": 2.2365730823298393,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 233,
+      "contacts": 4,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 234,
+      "contacts": 4,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 235,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.34374580219127593,
+      "equilibrium_residual_inf": 3.9968028886505635e-15,
+      "normal_edge_force_sum_N": 8.71003412833765,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 236,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.28515552431440205,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 6.6629169433811,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 237,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.2508477648171414,
+      "equilibrium_residual_inf": 5.551115123125783e-16,
+      "normal_edge_force_sum_N": 5.484070160465892,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 238,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.2257104467662049,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 4.631060778395129,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 239,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.2263562919352402,
+      "equilibrium_residual_inf": 1.9984014443252818e-15,
+      "normal_edge_force_sum_N": 4.720966033123746,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 400,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1500779579113543,
+      "equilibrium_residual_inf": 1.7763568394002505e-15,
+      "normal_edge_force_sum_N": 3.602163743649696,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 401,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.14995660256711013,
+      "equilibrium_residual_inf": 1.3322676295501878e-15,
+      "normal_edge_force_sum_N": 3.6227685113876382,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 402,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15320004146843047,
+      "equilibrium_residual_inf": 1.5543122344752192e-15,
+      "normal_edge_force_sum_N": 3.6997559371229993,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 403,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15718569898542858,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 3.7660638715860113,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 404,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1575805965371724,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 3.7191618285252828,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 405,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15754161793416543,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 3.6480023101249817,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 406,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15774615301476272,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 3.624906081728147,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 407,
+      "contacts": 6,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1579151784689324,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 3.602052913287741,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 408,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15773564360792314,
+      "equilibrium_residual_inf": 1.2212453270876722e-15,
+      "normal_edge_force_sum_N": 3.5919476779202455,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 409,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15765899570850966,
+      "equilibrium_residual_inf": 3.3306690738754696e-16,
+      "normal_edge_force_sum_N": 3.5831052586336147,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 410,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15776532228355117,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 3.5774203887132154,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 411,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15772307891964302,
+      "equilibrium_residual_inf": 1.1102230246251565e-16,
+      "normal_edge_force_sum_N": 3.5674528233062857,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 412,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15767564362165779,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 3.5525723110781215,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 413,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15740344719214194,
+      "equilibrium_residual_inf": 5.551115123125783e-16,
+      "normal_edge_force_sum_N": 3.531503776324084,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 414,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15651513903433062,
+      "equilibrium_residual_inf": 8.881784197001252e-16,
+      "normal_edge_force_sum_N": 3.497023649393956,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 415,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15509097778215786,
+      "equilibrium_residual_inf": 2.220446049250313e-16,
+      "normal_edge_force_sum_N": 3.4488301267174357,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 416,
+      "contacts": 5,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.15390898629634114,
+      "equilibrium_residual_inf": 1.3322676295501878e-15,
+      "normal_edge_force_sum_N": 3.391085032457902,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 417,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.17526686372981454,
+      "equilibrium_residual_inf": 4.9960036108132044e-15,
+      "normal_edge_force_sum_N": 4.428601100806036,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 418,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.17198436247663682,
+      "equilibrium_residual_inf": 3.4416913763379853e-15,
+      "normal_edge_force_sum_N": 4.416722634649853,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 419,
+      "contacts": 4,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.1693309667542826,
+      "equilibrium_residual_inf": 4.440892098500626e-16,
+      "normal_edge_force_sum_N": 4.425359300493384,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 420,
+      "contacts": 2,
+      "static_object_equilibrium": true,
+      "static_with_07Nm": true,
+      "max_joint_torque_Nm": 0.35247817512684715,
+      "equilibrium_residual_inf": 5.551115123125783e-16,
+      "normal_edge_force_sum_N": 8.75061825026155,
+      "reference_instantaneous_dynamic_object_balance": true,
+      "reference_instantaneous_dynamic_with_07Nm": true
+    },
+    {
+      "frame": 421,
+      "contacts": 1,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 422,
+      "contacts": 1,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 423,
+      "contacts": 2,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 424,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 425,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 426,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 427,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 428,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 429,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 430,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 431,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 432,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 433,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 434,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 435,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 436,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 437,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 438,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 439,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 440,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 441,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 442,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 443,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 444,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 445,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 446,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 447,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 448,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 449,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 450,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 451,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 452,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 453,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 454,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 455,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 456,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 457,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 458,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 459,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 460,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 461,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 462,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 463,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 464,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 465,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 466,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 467,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 468,
+      "contacts": 0,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false
+    },
+    {
+      "frame": 469,
+      "contacts": 2,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 470,
+      "contacts": 2,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 471,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 472,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 473,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 474,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 475,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 476,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 477,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 478,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 479,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 480,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 481,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 482,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 483,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 484,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 485,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 486,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 487,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 488,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 489,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 490,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 491,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 492,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 493,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 494,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 495,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 496,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 497,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 498,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 499,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 500,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 501,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 502,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 503,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 504,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 505,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 506,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 507,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 508,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 509,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 510,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 511,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 512,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 513,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 514,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 515,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 516,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 517,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 518,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 519,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 520,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 521,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 522,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 523,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 524,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 525,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 526,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 527,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 528,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 529,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 530,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 531,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 532,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 533,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 534,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 535,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 536,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 537,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 538,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    },
+    {
+      "frame": 539,
+      "contacts": 3,
+      "static_object_equilibrium": false,
+      "static_with_07Nm": false,
+      "reference_instantaneous_dynamic_object_balance": false,
+      "reference_instantaneous_dynamic_with_07Nm": false
+    }
+  ],
+  "scope": "Offline necessary static and reference instantaneous dynamic force balance only, positive pyramidal edges, original contact manifold at inward-shifted reset; no robustness, stiffness realization or dynamic torque feasibility certificate",
+  "training_uses_torque_cap": false
+}

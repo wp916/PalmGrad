@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "palmgrad"
+version = "0.1.0"
+description = "Differentiable rigid-body dynamics and imitation learning for in-hand manipulation"
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = ["numpy", "mujoco==3.17.0", "jax", "jaxlib", "optax", "scipy"]
+[tool.setuptools.packages.find]
+where = ["src"]

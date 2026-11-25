@@ -1,0 +1,76 @@
+{
+  "status": "reference_prepared_not_trained",
+  "configured_dt_seconds": 0.0166,
+  "timebase": "lesson66 configured sampling interval, not source timestamps",
+  "joint_names": [
+    "joint_0",
+    "joint_1",
+    "joint_2",
+    "joint_3",
+    "joint_4",
+    "joint_5",
+    "joint_6",
+    "joint_7",
+    "joint_8",
+    "joint_9",
+    "joint_10",
+    "joint_11",
+    "joint_12",
+    "joint_13",
+    "joint_14",
+    "joint_15"
+  ],
+  "quaternion_order": "wxyz",
+  "hand_base": "fixed; object pose transformed to palm coordinates in lesson66",
+  "urdf_sha256": "a7c0aa54911b087855c301aeecabe5612fabab3c2d7a6e9249eab35e8c61f075",
+  "records": [
+    {
+      "trajectory": "inspect_1",
+      "split": "train",
+      "frames": 300,
+      "qpos_shape": [
+        300,
+        23
+      ],
+      "qvel_shape": [
+        300,
+        22
+      ],
+      "source": "runs/lesson66_dextrack_native_replay/inspect_1_fixed_palm_reference.npz",
+      "source_sha256": "4894fe49743e9055b52fa6fa5b7d72e80c9fe899fdae6c8a630c0a706b13584b",
+      "output": "datasets/DexTrack/closed_loop_reference/inspect_1.npz",
+      "output_sha256": "7117c11feb88507863b1108406a4a5efa841c1c7f602da12c7e53ecc31ae30fe",
+      "limit_violating_frames": 293,
+      "limit_violating_entries": 762,
+      "max_limit_excess_rad": 0.35365703582763675,
+      "clipped": false
+    },
+    {
+      "trajectory": "lift",
+      "split": "held_out_diagnostic",
+      "frames": 300,
+      "qpos_shape": [
+        300,
+        23
+      ],
+      "qvel_shape": [
+        300,
+        22
+      ],
+      "source": "runs/lesson66_dextrack_native_replay/lift_fixed_palm_reference.npz",
+      "source_sha256": "af362bf4b9b73f4d633320cd59a88f4fe0ca97309247f2a0afc4b9967ecbcc15",
+      "output": "datasets/DexTrack/closed_loop_reference/lift.npz",
+      "output_sha256": "52baee0d6944056d9cf285e955292900b4d2bae30e0e079b60445d3d4bd5b346",
+      "limit_violating_frames": 295,
+      "limit_violating_entries": 1119,
+      "max_limit_excess_rad": 0.5306033182144165,
+      "clipped": false
+    }
+  ],
+  "blocking_items": [
+    "Original Allegro box-link against object-box collision unsupported by current production provider",
+    "Original cubesmall collision geometry, mass and inertia assets unavailable locally",
+    "Reference joint-limit violations need explicit resolution before native constrained dynamics",
+    "Trajectory tracking task and full-hand training integration not implemented by this export"
+  ]
+}

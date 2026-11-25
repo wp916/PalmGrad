@@ -1,0 +1,16 @@
+{
+  "project": "PalmGrad",
+  "dynamics_upstream": "https://github.com/sailab-ai/NablaEngine",
+  "training_upstream": "https://github.com/sailab-ai/NablaMimic",
+  "training_entry": "src/hand_training/train.py",
+  "algorithm_source": "NablaMimic: src/nablamimic/train.py",
+  "algorithm_copy": "src/hand_training/updates.py",
+  "nested_functions": [
+    "sample_resets",
+    "collect_step",
+    "action_target_update",
+    "actor_step",
+    "critic_step"
+  ],
+  "notes": "独立源码副本，不依赖上游本机目录或符号链接。手动力学与数据接口位于src/nablaengine/hand_engine/和src/nablaengine/model/hand.py；共享CUDA源码保留在g1_engine。此来源记录不代表已同步上游最新版本。"
+}

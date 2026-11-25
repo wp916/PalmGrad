@@ -1,0 +1,139 @@
+<mujoco model="allegro_fixed_palm_plastic_cube_audit">
+  <compiler angle="radian" />
+  <option timestep=".002" integrator="implicitfast" solver="Newton" cone="pyramidal" iterations="200" tolerance="1e-12" impratio="2" />
+  <worldbody>
+    <body name="palm_link" pos="0 0 0" quat="1 0 0 0" mocap="true">
+      <inertial pos="0 0 0" quat="0.99763019193100733 -0.0054326442222651823 -0.067756777672568061 -0.010653900876486133" mass="0.41539999999999999" diaginertia="0.00211973345290806 0.0018285651094672227 0.00045180043762471709" />
+      <geom size="0.0204 0.0565 0.0475" pos="-0.0092999999999999992 0 -0.047500000000000001" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_0" contype="0" conaffinity="0" />
+      <body name="link_0" pos="0 0.043499999999999997 -0.001542" quat="0.99904822158294204 -0.043619387340501421 0 0">
+        <inertial pos="0 0 0" quat="0.66017221966516826 0.745315832874343 -0.06359064485309518 0.068067463125625033" mass="0.011900000000000001" diaginertia="1.9705929299059025e-06 1.4844070149378149e-06 1.1745800551562849e-06" />
+        <joint name="joint_0" range="-0.46999999999999997 0.46999999999999997" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" pos="0 0 0" axis="0 0 1" />
+        <geom size="0.0098 0.01375 0.0082" pos="0 0 0.0082000000000000007" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_1" contype="0" conaffinity="0" />
+        <body name="link_1" pos="0 0 0.016400000000000001" quat="1 0 0 0">
+          <inertial pos="0 0 0" quat="0.70709682309600275 0.0037527013658112647 -0.0037527013658112647 0.70709682309600275" mass="0.065000000000000002" diaginertia="7.4384771927992309e-05 7.1921800000000034e-05 5.3984480720077238e-06" />
+          <joint name="joint_1" range="-0.19600000000000001 1.6100000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="5" axis="0 1 0" pos="0 0 0" />
+          <geom size="0.0098 0.01375 0.027" pos="0 0 0.027" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_2" contype="0" conaffinity="0" />
+          <body name="link_2" pos="0 0 0.053999999999999999" quat="1 0 0 0">
+            <inertial pos="0 0 0" quat="0.99999940950864807 0.00069589170400237692 8.5668751963681149e-05 0.00083028787538004252" mass="0.035499999999999997" diaginertia="3.1692502614564593e-05 3.1051652165782381e-05 3.2031352196529843e-06" />
+            <joint name="joint_2" range="-0.17399999999999999 1.7090000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" axis="0 1 0" pos="0 0 0" />
+            <geom size="0.0098 0.01375 0.0192" pos="0 0 0.019199999999999998" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_3" contype="0" conaffinity="0" />
+            <body name="link_3" pos="0 0 0.038399999999999997" quat="1 0 0 0">
+              <inertial pos="0 0 0.016990909090909091" quat="0.99999908844562024 -0.00031821919653764457 0.00023183240849005446 0.0012915487624910028" mass="0.0264" diaginertia="1.8454767411570004e-05 1.7835271987106212e-05 2.3061502376874149e-06" />
+              <joint name="joint_3" range="-0.22700000000000001 1.6180000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="12" axis="0 1 0" pos="0 0 0" />
+              <geom size="0.0098 0.01375 0.01335" pos="0 0 0.013350000000000001" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_4" contype="0" conaffinity="0" />
+              <geom size="0.012" rgba="0.9 0.9 0.9 1" pos="0 0 0.026700000000000002" quat="1 0 0 0" name="hand_geom_5" contype="0" conaffinity="0" />
+            </body>
+          </body>
+        </body>
+      </body>
+      <body name="link_4" pos="0 0 0.00069999999999999999" quat="1 0 0 0">
+        <inertial pos="0 0 0" quat="0.66017221966516826 0.745315832874343 -0.06359064485309518 0.068067463125625033" mass="0.011900000000000001" diaginertia="1.9705929299059025e-06 1.4844070149378149e-06 1.1745800551562849e-06" />
+        <joint name="joint_4" range="-0.46999999999999997 0.46999999999999997" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" pos="0 0 0" axis="0 0 1" />
+        <geom size="0.0098 0.01375 0.0082" pos="0 0 0.0082000000000000007" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_6" contype="0" conaffinity="0" />
+        <body name="link_5" pos="0 0 0.016400000000000001" quat="1 0 0 0">
+          <inertial pos="0 0 0" quat="0.70709682309600275 0.0037527013658112647 -0.0037527013658112647 0.70709682309600275" mass="0.065000000000000002" diaginertia="7.4384771927992309e-05 7.1921800000000034e-05 5.3984480720077238e-06" />
+          <joint name="joint_5" range="-0.19600000000000001 1.6100000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="5" axis="0 1 0" pos="0 0 0" />
+          <geom size="0.0098 0.01375 0.027" pos="0 0 0.027" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_7" contype="0" conaffinity="0" />
+          <body name="link_6" pos="0 0 0.053999999999999999" quat="1 0 0 0">
+            <inertial pos="0 0 0" quat="0.99999940950864807 0.00069589170400237692 8.5668751963681149e-05 0.00083028787538004252" mass="0.035499999999999997" diaginertia="3.1692502614564593e-05 3.1051652165782381e-05 3.2031352196529843e-06" />
+            <joint name="joint_6" range="-0.17399999999999999 1.7090000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" axis="0 1 0" pos="0 0 0" />
+            <geom size="0.0098 0.01375 0.0192" pos="0 0 0.019199999999999998" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_8" contype="0" conaffinity="0" />
+            <body name="link_7" pos="0 0 0.038399999999999997" quat="1 0 0 0">
+              <inertial pos="0 0 0.016990909090909091" quat="0.99999908844562024 -0.00031821919653764457 0.00023183240849005446 0.0012915487624910028" mass="0.0264" diaginertia="1.8454767411570004e-05 1.7835271987106212e-05 2.3061502376874149e-06" />
+              <joint name="joint_7" range="-0.22700000000000001 1.6180000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="12" axis="0 1 0" pos="0 0 0" />
+              <geom size="0.0098 0.01375 0.01335" pos="0 0 0.013350000000000001" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_9" contype="0" conaffinity="0" />
+              <geom size="0.012" rgba="0.9 0.9 0.9 1" pos="0 0 0.026700000000000002" quat="1 0 0 0" name="hand_geom_10" contype="0" conaffinity="0" />
+            </body>
+          </body>
+        </body>
+      </body>
+      <body name="link_8" pos="0 -0.043499999999999997 -0.001542" quat="0.99904822158294204 0.043619387340501421 0 0">
+        <inertial pos="0 0 0" quat="0.66017221966516826 0.745315832874343 -0.06359064485309518 0.068067463125625033" mass="0.011900000000000001" diaginertia="1.9705929299059025e-06 1.4844070149378149e-06 1.1745800551562849e-06" />
+        <joint name="joint_8" range="-0.46999999999999997 0.46999999999999997" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" pos="0 0 0" axis="0 0 1" />
+        <geom size="0.0098 0.01375 0.0082" pos="0 0 0.0082000000000000007" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_11" contype="0" conaffinity="0" />
+        <body name="link_9" pos="0 0 0.016400000000000001" quat="1 0 0 0">
+          <inertial pos="0 0 0" quat="0.70709682309600275 0.0037527013658112647 -0.0037527013658112647 0.70709682309600275" mass="0.065000000000000002" diaginertia="7.4384771927992309e-05 7.1921800000000034e-05 5.3984480720077238e-06" />
+          <joint name="joint_9" range="-0.19600000000000001 1.6100000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="5" axis="0 1 0" pos="0 0 0" />
+          <geom size="0.0098 0.01375 0.027" pos="0 0 0.027" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_12" contype="0" conaffinity="0" />
+          <body name="link_10" pos="0 0 0.053999999999999999" quat="1 0 0 0">
+            <inertial pos="0 0 0" quat="0.99999940950864807 0.00069589170400237692 8.5668751963681149e-05 0.00083028787538004252" mass="0.035499999999999997" diaginertia="3.1692502614564593e-05 3.1051652165782381e-05 3.2031352196529843e-06" />
+            <joint name="joint_10" range="-0.17399999999999999 1.7090000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" axis="0 1 0" pos="0 0 0" />
+            <geom size="0.0098 0.01375 0.0192" pos="0 0 0.019199999999999998" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_13" contype="0" conaffinity="0" />
+            <body name="link_11" pos="0 0 0.038399999999999997" quat="1 0 0 0">
+              <inertial pos="0 0 0.016990909090909091" quat="0.99999908844562024 -0.00031821919653764457 0.00023183240849005446 0.0012915487624910028" mass="0.0264" diaginertia="1.8454767411570004e-05 1.7835271987106212e-05 2.3061502376874149e-06" />
+              <joint name="joint_11" range="-0.22700000000000001 1.6180000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="12" axis="0 1 0" pos="0 0 0" />
+              <geom size="0.0098 0.01375 0.01335" pos="0 0 0.013350000000000001" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_14" contype="0" conaffinity="0" />
+              <geom size="0.012" rgba="0.9 0.9 0.9 1" pos="0 0 0.026700000000000002" quat="1 0 0 0" name="hand_geom_15" contype="0" conaffinity="0" />
+            </body>
+          </body>
+        </body>
+      </body>
+      <body name="link_12" pos="-0.018200000000000001 0.019332999999999999 -0.045987" quat="0.47771441756824273 -0.52133380401469931 -0.52133380448123923 -0.4777144171407377">
+        <inertial pos="0 0 0" quat="0.36684264465249539 0.76292368890517792 0.4544181914619046 0.27726886994427141" mass="0.017600000000000001" diaginertia="1.4228867971661933e-05 1.2943391898630092e-05 4.125770129708e-06" />
+        <joint name="joint_12" range="0.26300000000000001 1.3959999999999999" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" axis="-1 0 0" pos="0 0 0" />
+        <geom size="0.0179 0.017 0.02275" pos="-0.017899999999999999 0.0089999999999999993 0.014500000000000001" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_16" contype="0" conaffinity="0" />
+        <body name="link_13" pos="-0.027 0.0050000000000000001 0.039899999999999998" quat="1 0 0 0">
+          <inertial pos="0 0 0" quat="0.66382142616197437 0.74147738697858157 -0.067105087103467534 0.071058469252688203" mass="0.011900000000000001" diaginertia="1.9438608858834266e-06 1.4821713335447704e-06 1.1487277805718092e-06" />
+          <joint name="joint_13" range="-0.105 1.163" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="5" pos="0 0 0" axis="0 0 1" />
+          <geom size="0.0098 0.01375 0.00885" pos="0 0 0.0088500000000000002" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_17" contype="0" conaffinity="0" />
+          <body name="link_14" pos="0 0 0.0177" quat="1 0 0 0">
+            <inertial pos="0 0 0" quat="0.99999725751490265 -0.00057867426993440615 -0.0022454917471654307 0.00032842895236013766" mass="0.037999999999999999" diaginertia="3.670506771374603e-05 3.540424188311273e-05 3.6320404031413069e-06" />
+            <joint name="joint_14" range="-0.189 1.6439999999999999" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="10" axis="0 1 0" pos="0 0 0" />
+            <geom size="0.0098 0.01375 0.0257" pos="0 0 0.025700000000000001" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_18" contype="0" conaffinity="0" />
+            <body name="link_15" pos="0 0 0.051400000000000001" quat="1 0 0 0">
+              <inertial pos="0 0 0.012781294964028776" quat="0.99999995967914457 -0.00028397483942619824 0 0" mass="0.055599999999999997" diaginertia="7.6028972546762644e-05 7.1479489668175756e-05 1.8400832878586936e-05" />
+              <joint name="joint_15" range="-0.16200000000000001 1.7190000000000001" actuatorfrcrange="-0.7 0.7" damping="0.014999999999999999" frictionloss="12" axis="0 1 0" pos="0 0 0" />
+              <geom size="0.0098 0.01375 0.02115" pos="0 0 0.021149999999999999" type="box" rgba="0.2 0.2 0.2 1" quat="1 0 0 0" name="hand_geom_19" contype="0" conaffinity="0" />
+              <geom size="0.012" rgba="0.9 0.9 0.9 1" pos="0 0 0.042299999999999997" quat="1 0 0 0" name="hand_geom_20" contype="0" conaffinity="0" />
+            </body>
+          </body>
+        </body>
+      </body>
+    </body>
+    <body name="object0" pos="0 0 .1">
+      <freejoint name="object_free" />
+      <geom name="plastic_cube" type="box" size="0.025000000000000001 0.024996879999999999 0.025000000000000001" rgba=".3 .65 .9 1" contype="0" conaffinity="0" pos="0 0 0" density="1050" />
+    </body>
+  </worldbody>
+  <contact>
+    <pair geom1="hand_geom_0" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_1" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_2" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_3" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_4" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_5" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_6" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_7" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_8" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_9" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_10" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_11" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_12" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_13" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_14" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_15" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_16" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_17" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_18" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_19" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+    <pair geom1="hand_geom_20" geom2="plastic_cube" condim="4" friction=".6 .6 .008 0 0" />
+  </contact>
+  <actuator>
+    <motor name="motor_joint_0" joint="joint_0" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_1" joint="joint_1" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_2" joint="joint_2" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_3" joint="joint_3" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_4" joint="joint_4" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_5" joint="joint_5" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_6" joint="joint_6" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_7" joint="joint_7" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_8" joint="joint_8" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_9" joint="joint_9" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_10" joint="joint_10" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_11" joint="joint_11" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_12" joint="joint_12" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_13" joint="joint_13" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_14" joint="joint_14" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+    <motor name="motor_joint_15" joint="joint_15" gear="1" ctrllimited="true" ctrlrange="-.7 .7" />
+  </actuator>
+</mujoco>
